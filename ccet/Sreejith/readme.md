@@ -1,0 +1,2 @@
+# 1. A Quiz Game in Python
+This is a very simple text-based game in python. It a small quiz which you can make for yourself as well or your friends. We do not need to import any modules for this game which makes it easier! Try it yourself 
